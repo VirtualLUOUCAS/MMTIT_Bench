@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://huggingface.co/datasets/VirtualLUO/MMTIT_Bench/blob/main/README_ZH.md">中文版</a> •
-  <a href="https://arxiv.org/abs/2603.23896">Paper</a>
+  <a href="https://arxiv.org/abs/2603.23896">Paper</a> •
+  <a href="https://github.com/VirtualLUOUCAS/MMTIT_Bench">GitHub</a> •
+  <a href="https://huggingface.co/datasets/VirtualLUO/MMTIT_Bench">HuggingFace</a>
 </p>
 
 ## Overview
