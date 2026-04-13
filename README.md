@@ -3,7 +3,7 @@
 **A Multilingual and Multi-Scenario Benchmark with Cognition–Perception–Reasoning Guided Text-Image Machine Translation**
 
 <p align="center">
-  <a href="README_ZH.md">中文版</a> •
+  <a href="https://huggingface.co/datasets/VirtualLUO/MMTIT_Bench/blob/main/README_ZH.md">中文版</a> •
   <a href="https://arxiv.org/abs/2603.23896">Paper</a>
 </p>
 

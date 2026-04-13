@@ -3,7 +3,7 @@
 **多语言多场景文本图像机器翻译基准 · 认知-感知-推理引导的翻译范式**
 
 <p align="center">
-  <a href="README.md">English</a> •
+  <a href="https://huggingface.co/datasets/VirtualLUO/MMTIT_Bench">English</a> •
   <a href="https://arxiv.org/abs/2603.23896">论文</a>
 </p>
 
